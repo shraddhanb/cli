@@ -1,5 +1,11 @@
 # Changelog
 
+## [8.0.1](https://github.com/npm/cli/compare/config-v8.0.0...config-v8.0.1) (2023-10-16)
+
+### Bug Fixes
+
+* [`8423d4f`](https://github.com/npm/cli/commit/8423d4f133a40c8ceb0e1a75d23aa95fbf4f5b65) [#6895](https://github.com/npm/cli/pull/6895) delete auth from proper location on logout (@wraithgar)
+
 ## [8.0.0](https://github.com/npm/cli/compare/config-v7.2.0...config-v8.0.0) (2023-10-02)
 
 ### ⚠️ BREAKING CHANGES
